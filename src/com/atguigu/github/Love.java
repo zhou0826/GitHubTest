@@ -3,7 +3,7 @@ package com.atguigu.github;
 public class Love {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("故事1");
 
 	}
 
